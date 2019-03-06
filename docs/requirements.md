@@ -10,7 +10,7 @@ A working responsive calculator that can perform the basic operations described 
 
 #### Wireframe
 
-See wireframe-js-calculator.png
+See [wireframe-js-calculator.png](https://github.com/bootcamp-s19/exercise4-js-calculator/blob/master/docs/wireframe-js-calculator.png)
 
 #### Tech Stack
 
@@ -22,9 +22,9 @@ See wireframe-js-calculator.png
 
 To complete the assignment, you must complete the following:
 ###### Setup:
-1. Fork repo `exercise5-js-calculator`
+1. Fork repo `exercise4-js-calculator`
 2. Locally, navigate to your `Sites` folder in the terminal
-3. `git clone` + `your-repo-name-git` into your Sites folder
+3. `git clone` + `your-repo-name` into your Sites folder
 4. Create a `dev` branch to commit your code to
 5. Create necessary files for application
 6. Import necessary css/js files (Bootstrap)
